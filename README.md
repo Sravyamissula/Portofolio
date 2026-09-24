@@ -8,6 +8,12 @@ Designed for roles in **Software Engineering (SWE), Backend Engineering, Distrib
 
 ## 🚀 Live Demo & Local Setup
 
+### 🌐 Live Portfolio
+
+**[View Live Portfolio](https://portofolio-alpha-indol-hwbk49hrcp.vercel.app/)**
+
+The portfolio is publicly deployed on Vercel and connected to this GitHub repository.
+
 ### 1. Prerequisites
 - Node.js >= 18.x (Tested with Node v24.15)
 - npm >= 9.x
